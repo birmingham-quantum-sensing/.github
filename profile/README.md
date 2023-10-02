@@ -3,7 +3,7 @@
 ## Introduction:
 
 ## Contribution guidelines:
-All Python code must abide by [PEP8](https://peps.python.org/pep-0008/) standards
+All Python code must abide by [PEP8](https://peps.python.org/pep-0008/) standards<br>
 Code in repos should follow module/submodule structure, i.e.:
 * repo/foo.py - this is a runnable file which will accomplish a task. It may or may not call submodules to do its job, in which case those submodules should be located in repo/modules.
 * repo/modules/bar.py - this is a self-contained submodule containing classes/functions/variables which can be imported by any module
