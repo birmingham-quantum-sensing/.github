@@ -1,5 +1,17 @@
-## Hi there 👋
+# Welcome to the University of Birmingham Quantum Technology Hub in Sensors and Timing git page
 
+## Introduction:
+
+## Contribution guidelines:
+All Python code must abide by [PEP8](https://peps.python.org/pep-0008/) standards
+Code in repos should follow module/submodule structure, i.e.:
+* repo/foo.py - this is a runnable file which will accomplish a task. It may or may not call submodules to do its job, in which case those submodules should be located in repo/modules.
+* repo/modules/bar.py - this is a self-contained submodule containing classes/functions/variables which can be imported by any module
+
+## Useful resources:
+* How to use git: make link to guide
+* Something
+  
 <!--
 
 **Here are some ideas to get you started:**
