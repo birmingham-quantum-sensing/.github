@@ -1,4 +1,4 @@
-# Welcome to the University of Birmingham Quantum Technology Hub in Sensors and Timing git page
+# Welcome to the University of Birmingham Quantum Technology Hub in Sensors and Timing Git page
 
 ## Introduction:
 
